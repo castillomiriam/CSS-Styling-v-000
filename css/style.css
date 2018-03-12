@@ -55,8 +55,7 @@ background: aqua;
   text-decoration: none;
   }
 
-  #details a:hover, #details a:visited {
+  #details a:hover {
     color: black;
-    text-decoration: none;
+    text-decoration: underline;
     }
-
